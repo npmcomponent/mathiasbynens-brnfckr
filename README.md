@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [mathiasbynens/brnfckr](http://github.com/mathiasbynens/brnfckr). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/mathiasbynens-brnfckr`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # brnfckr, a brainfuck minifier written in JavaScript
 
 [![Build status](https://travis-ci.org/mathiasbynens/brnfckr.svg?branch=master)](https://travis-ci.org/mathiasbynens/brnfckr) [![Dependency status](https://gemnasium.com/mathiasbynens/brnfckr.svg)](https://gemnasium.com/mathiasbynens/brnfckr)
